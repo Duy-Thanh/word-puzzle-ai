@@ -1,0 +1,8 @@
+pygame
+tk
+nltk
+spacy
+rapidfuzz
+python-Levenshtein
+tensorflow
+transformers
